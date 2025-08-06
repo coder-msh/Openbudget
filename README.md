@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coder-msh/Openbudget/refs/heads/main/logo.png" width="180" alt="OpenBudget Bot Logo">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" alt="OpenBudget Animation">
 </p>
 
 ---
@@ -20,15 +20,6 @@
 - 🔍 **Ism / telefon bo‘yicha qidirish** — foydalanuvchini tez topish.
 - ⏱ **1 daqiqalik yangilanish** — doimiy real-time ma’lumot.
 - 🛡 **CAPTCHA avtomatik yechish** — avtomatlashtirilgan kirish.
-
----
-
-## 📂 Manba kod
-<p align="center">
-  <a href="https://github.com/coder-msh/Openbudget">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25" alt="GitHub Logo">
-  </a>
-</p>
 
 ---
 
