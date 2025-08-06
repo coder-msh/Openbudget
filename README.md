@@ -30,12 +30,9 @@
   </a>
 </p>
 
----
 
-## 📄 Litsenziya
-Ushbu loyiha **MIT** litsenziyasi asosida tarqatiladi.
 
 ---
 <p align="center">
-  ❤️ bilan yaratilgan <a href="https://t.me/coder_msh">Coder_MSH</a> tomonidan
+  👨🏻‍💻 bilan yaratilgan <a href="https://t.me/coder_msh">Coder_MSH</a> tomonidan
 </p>
