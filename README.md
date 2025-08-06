@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30">
   <b>OpenBudget Bot</b>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" height="30">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" alt="OpenBudget Animation">
+  <img src="https://raw.githubusercontent.com/coder-msh/Openbudget/refs/heads/main/logo.png" width="180" alt="OpenBudget Bot Logo">
 </p>
 
 ---
@@ -23,9 +23,11 @@
 
 ---
 
-## 📷 Logotip
+## 📂 Manba kod
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coder-msh/Openbudget/refs/heads/main/logo.png" width="200" alt="OpenBudget Bot Logo">
+  <a href="https://github.com/coder-msh/Openbudget">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="25" alt="GitHub Logo">
+  </a>
 </p>
 
 ---
