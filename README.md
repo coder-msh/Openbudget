@@ -17,7 +17,7 @@
 
 ## 🚀 Asosiy imkoniyatlari
 - 📊 **Ovoz berish statistikasi** — joriy ovozlar soni va yangiliklarni olish.
-- 🔍 **Ism / telefon bo‘yicha qidirish** — foydalanuvchini tez topish.
+- 🔍 **telefon bo‘yicha qidirish** — foydalanuvchini tez topish.
 - ⏱ **1 daqiqalik yangilanish** — doimiy real-time ma’lumot.
 - 🛡 **CAPTCHA avtomatik yechish** — avtomatlashtirilgan kirish.
 
